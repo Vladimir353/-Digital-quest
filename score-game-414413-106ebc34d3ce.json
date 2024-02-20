@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "score-game-414413",
+  "private_key_id": "106ebc34d3ce0ba7d3212e7ed4f74d403b668378",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCpnHHmOIo8Qbyf\nxW0COaYAfPKHznzM5GJDW4VdpSJx/9coHrBBnRWWcG/aUQDJ3QVjksNugnNK5z5w\nYsDnBu4yc72XUrcteM8q1RCcoj/vFKbt2a+Rtg2FFAt4fSi/3/EWDJheuOcWR5Vg\n59erllGmRBsNNck61T2pDnsnPkg8IslCMwMI33+ecmR/vWS1pl4GeQVQ2GqcDNu2\nu0yJxRL0TKWzcblB8M3w6pxc7EF5TbGY3l7UkUufmNck40OV4lFzehtuBmodr8ah\nFBBL4gK8shuBG6AHxKiSNfSueY2bqxyrkFJ28A4VmbYukngCg1OL6t+nbmz+xeVM\n4uQV7LgNAgMBAAECggEAFrkK2VkBzAjSiGUesYmfn7kdlOwo9Bo0v+lm+KDC+JrZ\n7FoQKvoshjcSBSGNBX5C1pA29nsrjwFj8BKK3WikSMYQxFEkkUb6GjbpPtLN1e3i\nX0MmrlLBhO6misHZz7rkxZtyXl5PN0Dn1k+5KRe+YJQHO8HU77jZxehWv28spkGa\n9LuTDvuiIE+pOnw5Cq/fPHSAIImsybYNj6y683CZBqdBjKq0bt6Ot/Ak4xyV+EcM\nbNS6ZIRE/+QF3dZPqUPVFr0non3axLazPsOaIjnmoWTca+Bf6uXB61g2ixZGqO+V\nB5bprCoqlQvxr1AZjUS0r15ichma0tQiCGO8D2RUAQKBgQDUo0ofXjuq3Hc310lx\nw8K8C1HCR6w+M/iFPCyj9GQmlX+5KFmDcnF0DpkaxsETdt+qthOAKxrENornvzEZ\nt6WBkdJKDNfR8Rh1BQ5A212OVJG2ql3EIIlW5l6AoVygh0vbEweVHIHnAYxnVnwL\nMg2jK87QT/auX/Du7QGXpkMFzQKBgQDMMvRTNKZdVOGWfop43c1qzmAo4XdcPgKh\np2R6oHizten1aMxela3W9DIb6HcwqrIAPdiJuFBY3u+tVMeUXMthW+8CQeHQ5cEw\nj5O4pMQb5/dnf/JZEStRLDAJPV+WNtQtcXcXiLyQTOSkPOtdJWqNYngkyYd2aiVp\nPRK8bNo7QQKBgCnCtAD7Gc7Ro5xU7LiqEKmrs2/rcZl5zXolOkMs8SpevAnaMdJN\n/Jglcc4/cJXpB75YKfZHAOe+KoOfGf6KAbgzslAWu6AgsIPy7TyxmGsmksOELAwj\ns7VcYvzyM+XXDH/G+fs/8Qc0V6XH526vctwz81cYDUNr1j6mT2TAI3OVAoGACiK5\nV+v0Ggvdiq/LRcaUrKmDwmO2ngCB9u4tIZ0XgKwV6dWC12sMju/eEN6QE/1VCogH\nWIaqjk66jNr5cRbODY4XpgAJKmpNFZD63x5mkZAJCr0iFWOxx7yuwbanKPidvYe1\nRpjF60+1xaU0dZIm4M+zcPgD3k/UfY3HgUzR5EECgYBSLgOb/AkYUoTMsCl4uwFJ\nZn0WluhPpdfe0nzDSjUnCy2j1WMOAUA1Ohfz8xlWM1WXy55QZlx4uC0xwLnDGVGq\njZx2VSR3GedBOYPWzOCQ4+T2NU4+u/0/sVN0lyf9Z/8CNTKXf1ioz3DTxr4n52sf\nkoi65Z8kLeHO5x7REIpE6Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "python@score-game-414413.iam.gserviceaccount.com",
+  "client_id": "114970356730873995851",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python%40score-game-414413.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
