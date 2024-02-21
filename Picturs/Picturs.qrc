@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="picturs">
+    <file>save_on.png</file>
+    <file>save_off.png</file>
+    <file>refresh_on.png</file>
+    <file>refresh_off.png</file>
+    <file>score.png</file>
+    <file>loss.png</file>
+    <file>win.png</file>
+    <file>moneta_1.png</file>
+    <file>smile.png</file>
+    <file>icon.png</file>
+    <file>OK off.png</file>
+    <file>OK.png</file>
+    <file>moneta_prss.png</file>
+    <file>moneta.png</file>
+    <file>II.png</file>
+    <file>user.png</file>
+    <file>money.png</file>
+  </qresource>
+</RCC>
