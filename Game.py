@@ -1,6 +1,3 @@
-#добавить таблицу лидеров
-#добавить правильное число в диалоговые окна, win и loss
-
 from PyQt6 import QtCore, QtGui, QtWidgets
 from PyQt6.QtGui import QIntValidator
 from os import path, chdir
@@ -623,7 +620,6 @@ class Ui_MainWindow(object):
         self.bet.setText(_translate("MainWindow", f"Ваша ставка: 0"))
         self.try_num.setText(_translate("MainWindow", f"<html><head/><body><p>Попыток осталось: {self.popitki} </p></body></html>"))
         self.big_small.setText(_translate("MainWindow", f"<html><head/><body><p><span style=\" color:#f90004;\"> </span></p></body></html>"))
-        self.icon_money.setToolTip(_translate("MainWindow", "<html><head/><body><p><span style=\" font-size:11pt;\">Твой кэш заработанный за год)</span></p></body></html>"))
         self.save_score.setToolTip(_translate("MainWindow", "<html><head/><body><p><span style=\" font-size:11pt;\">Сохранить счет в таблицу рекордов</span></p></body></html>"))
 
 
